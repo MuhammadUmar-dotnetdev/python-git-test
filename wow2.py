@@ -9,3 +9,6 @@ num2 = 222
 result = num1 + num2
 
 print(result)
+
+wowvar1 = 11
+wowvar2 = 10

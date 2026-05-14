@@ -12,3 +12,5 @@ print(result)
 
 wowvar1 = 11
 wowvar2 = 10
+
+result2 = wowvar1 + wowvar2

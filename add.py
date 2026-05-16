@@ -8,3 +8,5 @@ addvar2 = 11
 result = addvar1 * addvar2
 
 print(result)
+
+print("main")

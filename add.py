@@ -9,4 +9,8 @@ result = addvar1 * addvar2
 
 print(result)
 
+<<<<<<< HEAD
 print("main")
+=======
+print("")
+>>>>>>> 2bd1f06 (Added print())
